@@ -11,20 +11,13 @@
   <a href="https://github.com/Shalinigupta30?tab=repositories"><b>Repositories ↗</b></a>
 </p>
 
-### Hi, I'm Shalini.
+I'm **Shalini Gupta**, a Computer Science undergraduate at the **University of Delhi**. I build with Python, Django, and SQL, and I'm exploring how machine learning can fit into useful web applications.
 
-I'm a **Computer Science undergraduate at the University of Delhi**, working with Python, Django, and SQL. I built a full-stack resume generator and completed **AI industrial training at InternVision in 2025**.
+**Internal SIH ’25 finalist** &nbsp; · &nbsp; **AICTE MSME Campus Ambassador**
 
-I'm interested in taking a useful idea from a form and database to an application someone can use—and eventually adding well-tested machine learning features.
+<br />
 
-<table>
-  <tr>
-    <td width="50%"><b>Built</b><br />Django Resume Builder<br /><sub>Python · Django · SQLite · Bootstrap</sub></td>
-    <td width="50%"><b>Exploring next</b><br />Applied ML &amp; text matching<br /><sub>Learning goals and future project ideas</sub></td>
-  </tr>
-</table>
-
-## Selected project
+## A project I built
 
 <a href="https://github.com/Shalinigupta30/resume-builder-web-app">
   <picture>
@@ -35,23 +28,23 @@ I'm interested in taking a useful idea from a form and database to an applicatio
 
 **[Browse the code ↗](https://github.com/Shalinigupta30/resume-builder-web-app)** · [Commit history](https://github.com/Shalinigupta30/resume-builder-web-app/commits)
 
-Dynamic forms collect personal details, education, skills, and experience. SQLite stores the information, while HTML, CSS, and Bootstrap provide a responsive interface for generating structured resumes.
+A full-stack application with dynamic forms, SQLite storage, and a responsive Bootstrap interface. It organizes personal details, education, skills, and experience into a structured resume.
 
-<sub>The graphic illustrates the workflow, not an application screenshot.</sub>
+<sub>Project concept illustration.</sub>
 
-## Languages & tools
+## My toolkit
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++" title="C++" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="38" height="38" alt="Django" title="Django" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38" alt="HTML" title="HTML" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38" alt="CSS" title="CSS" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="38" height="38" alt="Bootstrap" title="Bootstrap" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" title="MySQL" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="38" height="38" alt="SQLite" title="SQLite" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" title="Linux" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="42" height="42" alt="Django" title="Django" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" alt="HTML" title="HTML" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS" title="CSS" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap" title="Bootstrap" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite" title="SQLite" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux" /> &nbsp;
 </p>
 
 **Programming:** Python, C++, C, SQL  
@@ -59,26 +52,24 @@ Dynamic forms collect personal details, education, skills, and experience. SQLit
 **Tools:** Git, VS Code, Linux, Windows  
 **Foundations:** Data structures & algorithms, OOP, DBMS, operating systems
 
-## On GitHub
+## A little GitHub activity
 
 <a href="https://github.com/Shalinigupta30?tab=overview">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shalinigupta30&amp;show_icons=true&amp;hide_rank=true&amp;title_color=E1A27D&amp;text_color=C9D1D9&amp;icon_color=E1A27D&amp;bg_color=111820&amp;hide_border=true&amp;custom_title=Shalini%27s%20GitHub&amp;card_width=480&amp;disable_animations=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Shalinigupta30&amp;show_icons=true&amp;hide_rank=true&amp;title_color=AC4B30&amp;text_color=252923&amp;icon_color=AC4B30&amp;bg_color=F2EFE6&amp;hide_border=true&amp;custom_title=Shalini%27s%20GitHub&amp;card_width=480&amp;disable_animations=true" width="480" alt="Shalini's live GitHub statistics. Open the GitHub profile if the card is unavailable." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shalinigupta30&amp;show_icons=true&amp;hide_rank=true&amp;title_color=C4A9E8&amp;text_color=C9D1D9&amp;icon_color=C4A9E8&amp;bg_color=201C2A&amp;hide_border=true&amp;custom_title=Shalini%27s%20GitHub&amp;card_width=480&amp;disable_animations=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shalinigupta30&amp;show_icons=true&amp;hide_rank=true&amp;title_color=74518F&amp;text_color=29243B&amp;icon_color=74518F&amp;bg_color=F0EAF5&amp;hide_border=true&amp;custom_title=Shalini%27s%20GitHub&amp;card_width=480&amp;disable_animations=true" width="520" alt="Shalini's live GitHub statistics. Open the GitHub profile if the card is unavailable." />
   </picture>
 </a>
 
 [All repositories](https://github.com/Shalinigupta30?tab=repositories) · [Contribution history](https://github.com/Shalinigupta30?tab=overview) · [This profile's source](https://github.com/Shalinigupta30/Shalinigupta30)
 
-<sub>Stats reflect GitHub activity, not skill level. The card is provided by GitHub Readme Stats and may be cached.</sub>
+<sub>Live GitHub data; updates may be cached.</sub>
 
-## Learning & next ideas
+## What I want to explore next
 
-After **Artificial Intelligence Industrial Training — InternVision, 2025**, I'd like to explore data preparation, model evaluation, and natural language processing.
+I completed **AI Industrial Training at InternVision in 2025**. My next learning goals are data preparation, model evaluation, and NLP using NumPy, pandas, and scikit-learn.
 
-**Next project idea:** extend my resume builder with resume-to-job-description matching. Compare keyword and semantic approaches, show supporting evidence, and explain the gaps.
-
-**Planned tools:** NumPy, pandas, scikit-learn, and text embeddings. This is a learning roadmap; the AI extension isn't implemented yet.
+**An idea on my list:** resume-to-job matching that explains which requirements a resume supports. This is a proposed extension to my Django project.
 
 <details>
 <summary><b>Beyond code — competitions, leadership & volunteering</b></summary>
@@ -106,7 +97,7 @@ After **Artificial Intelligence Industrial Training — InternVision, 2025**, I'
 
 ---
 
-**Have a project or opportunity in mind?**  
+### Let’s talk.  
 [guptashalini.554433@gmail.com](mailto:guptashalini.554433@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/shalinigupta35/)
 
 <sub>Icons by <a href="https://github.com/devicons/devicon">Devicon</a> · Statistics by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></sub>
